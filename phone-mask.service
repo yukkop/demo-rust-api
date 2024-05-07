@@ -1,0 +1,8 @@
+[Unit]
+Description=Your Service Description
+
+[Service]
+ExecStart=/root/phone-mask/gwp_phone_mask
+
+[Install]
+WantedBy=multi-user.target

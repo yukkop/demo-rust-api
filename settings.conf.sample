@@ -1,0 +1,8 @@
+FOLDER: "<path/to/folder>";
+USERNAME: "<username>"
+SERVER: "<ip>"
+SERVICE_NAME: "<alias>"
+BITRIX_URL: "<url to bitrix24>"
+BITRIX_TOKEN: "<bitrix24 auth>"
+LOG_FILE: "<path/tolog>"
+PORT: "<server port>"
